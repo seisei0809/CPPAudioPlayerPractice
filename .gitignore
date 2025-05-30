@@ -1,0 +1,56 @@
+*/build/
+*/bin/
+*/out/
+*/Debug/
+*/Release/
+*/x64/
+*/x86/
+.vs/
+*/Audio/
+*/openal-soft-1.24.3-bin/
+
+# Prerequisites
+*.d
+
+# Compiled Object files
+
+*.vcxproj.user
+*.suo
+*.user
+*.ncb
+*.sdf
+*.opensdf
+*.ipch
+*.iobj
+*.idb
+*.pdb
+*.obj
+*.exe
+*.log
+*.ilk
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+
+*.asset
